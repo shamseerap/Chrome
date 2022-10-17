@@ -1,0 +1,5 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" class="chr-icon chr-icon--link" aria-hidden="true" width="18"  height="18" ><defs><symbol id="arrow-right" viewBox="0 0 18 18">
+    <path d="M8.99999 3L7.94249 4.0575L12.1275 8.25H2.99999V9.75H12.1275L7.94249 13.9425L8.99999 15L15 9L8.99999 3Z"></path>
+  </symbol></defs>
+            <use xlink:href="#arrow-right" fill="#1967D2"></use>
+            </svg>
